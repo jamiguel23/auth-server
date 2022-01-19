@@ -8,3 +8,7 @@ At this point, our auth-server is able to allow a user to create an account as w
 
 We will now be using that Token to re-authenticate users to shield access to any route that requires a valid login to access.
 
+
+## UML
+
+![UML](lab7UML.PNG);
